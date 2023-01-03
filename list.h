@@ -1,6 +1,5 @@
 //
 //  list.h
-//  Lab8_C
 //
 //  Created by Alex Mclean on 2022-11-23.
 //

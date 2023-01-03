@@ -1,7 +1,5 @@
 //
 //  hydro.cpp
-//  Lab8_C
-//
 //  Created by Alex Mclean on 2022-11-24.
 //
 
@@ -49,7 +47,7 @@ int main(void) {
 }
 
 void displayHeader(){
-    cout << "Program: Flow Studies – Fall 2022\nVersion: 1.0\nProduced by: Alex McLean\n";
+    cout << "Program: Flow Studies Fall 2022\nVersion: 1.0\nProduced by: Alex McLean\n";
 }
 
 void pressEnter(){
