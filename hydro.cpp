@@ -59,7 +59,7 @@ int readData(FlowList &x){
     ListItem k;
     int i=0;
     ifstream inObj;
-    inObj.open ("/flow.txt");
+    inObj.open ("flow.txt");
     if (! inObj) {
         cout << "Error: cannot open the file" << endl;
         exit(1);
