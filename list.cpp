@@ -36,7 +36,7 @@ void FlowList::print() const
 
 void FlowList::print2() const
 {
-    ofstream outObj ("/Users/alexmclean/Desktop/ENSF_337/flow.txt");
+    ofstream outObj ("/flow.txt");
     if (outObj.is_open()){
         if (headM != 0) {
             for (const Node *p = headM->next; p != 0; p = p->next){
